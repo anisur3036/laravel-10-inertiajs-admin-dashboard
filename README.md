@@ -1,1 +1,1 @@
-# Laravel 10 Inertiajs Admin Dashboard
+# Laravel 10 Inertiajs & tailwindcss Admin Dashboard
